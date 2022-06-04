@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\WF12\bin\Debug\WF12.exe.config
+C:\Users\LENOVO\source\repos\WF12\bin\Debug\WF12.exe
+C:\Users\LENOVO\source\repos\WF12\bin\Debug\WF12.pdb
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.Form1.resources
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.exe
+C:\Users\LENOVO\source\repos\WF12\obj\Debug\WF12.pdb
